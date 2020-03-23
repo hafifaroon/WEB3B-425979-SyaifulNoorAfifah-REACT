@@ -1,7 +1,7 @@
 import React from 'react';
 import { Layout, Menu } from 'antd';
 import { Card, Row } from 'antd';
-import './App.css';
+import '../src/assets/css/App.css';
 import { UserOutlined, LaptopOutlined, NotificationOutlined } from '@ant-design/icons';
 const { SubMenu } = Menu;
 
@@ -32,8 +32,8 @@ function App() {
         defaultSelectedKeys={['2']}
         style={{ lineHeight: '64px' }}
       >
-        <Menu.Item key="1">Home</Menu.Item>
-        <Menu.Item key="2">About</Menu.Item>
+        <Menu.Item key="1">Beranda</Menu.Item>
+        <Menu.Item key="2">Tentang</Menu.Item>
       </Menu>
     </Header>
     <Layout>
@@ -53,7 +53,7 @@ function App() {
               </span>
             }
           >
-            <Menu.Item key="1">Sub Menu</Menu.Item>
+            <Menu.Item key="1">SubMenu</Menu.Item>
             <Menu.Item key="2">Sub Menu</Menu.Item>
           </SubMenu>
         </Menu>
@@ -78,7 +78,7 @@ function App() {
   
         </div>
       </Content>
-      <Footer style={{ textAlign: 'center' }}>Syaiful Noor Afifah ©2020 </Footer>
+      <Footer style={{ textAlign: 'center' }}>Syaiful Noor Afifah ©2020</Footer>
       </Layout>
     </Layout>
   </Layout>

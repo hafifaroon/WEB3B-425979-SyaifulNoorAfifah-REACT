@@ -11,7 +11,7 @@ function ButtonHome({
 //dibuat secara fleksibel seperti tipenya apa, text atau yg lain, untuk mengetahui itu bisa liat di dokumentasinya ant design
 {
     return (
-        <Button
+        <Button 
             type={type}
             className={className}
             disabled={disabled}

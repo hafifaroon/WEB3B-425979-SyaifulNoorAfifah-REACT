@@ -35,7 +35,7 @@ class PortofolioComponent extends Component{
                     <Row className="section-container">
                             <Col lg={24}>
                                 <div className="text-soft-blue title-big bold discover-container">
-                                Meet My Brothers 
+                                This is My Family
                                 </div>
                             </Col>
                             <Col lg={24}>

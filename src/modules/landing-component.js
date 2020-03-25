@@ -50,11 +50,13 @@ class LandingComponent extends Component{
                                 </Col>
                                 <Col span={24}>
                                     <div className="button-section-1-container">                                
-                                        <ButtonHome
-                                            text="Text Me"
-                                            className='button-participate'
-                                            onClick = {showModal}
-                                        />{/* ini merupakan component button yang kita sudah definisikan di atas atas nama buttonhome*/}
+                                        <a href="mailto:hafifaroon@gmail.com?Subject=Hello%20Grizz">
+                                            <ButtonHome
+                                                text="Text Me"
+                                                className='button-participate'
+                                                //onClick = {onClick}
+                                            />{/* ini merupakan component button yang kita sudah definisikan di atas atas nama buttonhome*/}
+                                        </a>
                                         <ButtonHome
                                             text="Further Information"
                                             background="white"
@@ -62,17 +64,18 @@ class LandingComponent extends Component{
                                             border="1px solid #a16348"
                                             marginLeft={16}
                                             className='button-participate'
+                                            onClick = {showModal}
                                         />
                                     </div>
                                 </Col>
                                 <Modal
-                                    title="Contact"
+                                    title="Trivia"
                                     visible={initialData.visible}
                                     onOk={handleOk}
                                     onCancel={handleCancel}
                                     className = "modal-notif"
                                     >
-                                    <p className="text-notif">Mail me at hafifaroon@gmail.com</p>
+                                    <p className="text-notif">I am Grizzly, the oldest bear among my my brothers. When I want to, I can let out an immense roar. Not only is it extremely loud, but it can very startling.</p>
                                 </Modal>{/* ini merupakan modal yang didalamnya memuat beberapa fungsi yang sudah di definisikan di atas sebagai this.props*/}
                             </Row>
                         </Col>  

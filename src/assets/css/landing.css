@@ -12,13 +12,13 @@
     max-width: 480px;
     margin-top: 50px;
     margin-bottom: 10px;
-    padding-left:84px;
+    
 }
 
 .description-container {
     max-width: 520px;
     margin-bottom: 20px;
-    padding-left:30px;
+    
     text-align:center;
 }
 .button-section-1-container {
@@ -46,7 +46,7 @@
 
     /* Section 1 style */
     .image-big-container {
-        width: 460px;
+        width: 400px;
     }
 
     /* Section 2 style */
@@ -139,7 +139,7 @@
         display: none;
     }
     .image-hidden {
-        width: 300px;
+        width: 280px;
         margin-bottom: 20px;
         display: block;
     } 

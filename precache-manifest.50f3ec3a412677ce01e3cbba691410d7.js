@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2eba50c322c012ab559ff2ab0c70b4c0",
+    "revision": "f906f182a68429f0dda1db1fb0fd88d7",
     "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/css/2.2fbe55bd.chunk.css"
   },
   {
-    "revision": "8abe2c100b5d873c5bc7",
-    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/css/main.c2fcf38f.chunk.css"
+    "revision": "266928895cb46b76f2d2",
+    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/css/main.f36cb671.chunk.css"
   },
   {
     "revision": "1526f0af37c832aa75ef",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/2.28ff249d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8abe2c100b5d873c5bc7",
+    "revision": "266928895cb46b76f2d2",
     "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/main.a38db3d2.chunk.js"
   },
   {

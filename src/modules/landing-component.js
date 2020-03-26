@@ -30,8 +30,8 @@ class LandingComponent extends Component{
                         <Col lg={12} md={12} sm={12}>
                             <Row>
                                 <Col span={24}>
-                                    <div className="title-container">
-                                        <span className="text-soft-blue title-biggest bold">Hi, there!</span>
+                                    <div className="title-container text-align-center">
+                                        <span className="text-soft-blue title-biggest bold" >Hi, there!</span>
                                         <br/>
                                         <span className="text-soft-blue title-big bold">it's me, Grizzly</span>
                                     </div>
@@ -45,7 +45,16 @@ class LandingComponent extends Component{
                                         />
                                     </div>
                                     <div className="description-container desc-medium">
-                                    I love eating. I love eating. I love eating. Yeah! I love eating.
+                                    I love eating. I love eating. I love eating. Yeah! I love eating. Nickname(s): Crowbar Jones,
+                                    Grizzly Bear,
+                                    Grizz,
+                                    Big Bro,
+                                    Older Brother,
+                                    Little Guy,
+                                    Little Fella,
+                                    Loud One,
+                                    Spike,
+                                    Bear Guy.
                                     </div>
                                 </Col>
                                 <Col span={24}>
@@ -58,7 +67,7 @@ class LandingComponent extends Component{
                                             />{/* ini merupakan component button yang kita sudah definisikan di atas atas nama buttonhome*/}
                                         </a>
                                         <ButtonHome
-                                            text="Further Information"
+                                            text="Trivia"
                                             background="white"
                                             textColor="#a16348"
                                             border="1px solid #a16348"

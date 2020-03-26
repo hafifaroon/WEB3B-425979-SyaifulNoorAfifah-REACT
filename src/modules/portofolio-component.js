@@ -35,6 +35,9 @@ class PortofolioComponent extends Component{
             <Layout className="landing-container">
                 <Content style={{ overflow: "hidden" }}> 
                     <Row className="section-container">
+                    
+                    <Col span={12} offset={6}>
+                    <div className="container" > 
                             <Col lg={24}>
                                 <div className="text-soft-blue title-big bold discover-container">
                                 Meet My Brothers!
@@ -46,7 +49,7 @@ class PortofolioComponent extends Component{
                                 </div>
                                                               
                             </Col>
-                                                        
+                                                       
                             <Col lg={24}>
                             <div className="button-section-1-container">                                
                                         <a href="https://youtu.be/JCjIrEQCzWM">
@@ -59,6 +62,9 @@ class PortofolioComponent extends Component{
                                         </a>
                                 </div>
                             </Col>
+                            </div>
+                            </Col>
+                            
 
                             <Col lg={24} className="mt-20">
                                 <Row

@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7bf2da84a3edd311a890f43f6298bf3d",
+    "revision": "2eba50c322c012ab559ff2ab0c70b4c0",
     "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/index.html"
   },
   {
-    "revision": "29979a20006a2feefe52",
+    "revision": "1526f0af37c832aa75ef",
     "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/css/2.2fbe55bd.chunk.css"
   },
   {
-    "revision": "8bca6afec23931cbc2fb",
-    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/css/main.7a887114.chunk.css"
+    "revision": "8abe2c100b5d873c5bc7",
+    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/css/main.c2fcf38f.chunk.css"
   },
   {
-    "revision": "29979a20006a2feefe52",
-    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/2.2a154198.chunk.js"
+    "revision": "1526f0af37c832aa75ef",
+    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/2.28ff249d.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/2.2a154198.chunk.js.LICENSE.txt"
+    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/2.28ff249d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bca6afec23931cbc2fb",
-    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/main.93fb8a8b.chunk.js"
+    "revision": "8abe2c100b5d873c5bc7",
+    "url": "/WEB3B-425979-SyaifulNoorAfifah-REACT/static/js/main.a38db3d2.chunk.js"
   },
   {
     "revision": "0d71ef118ef330042723",
